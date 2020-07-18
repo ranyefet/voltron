@@ -7,7 +7,7 @@ A simple web framework for building RESTful APIs.
 * TypeScript support
 * Formatting - Prettier
 * Linter - Eslint
-* Developer Expirience - Nodemon
+* Developer Experience - Nodemon
 * Config - Convict
 * Logger - Pino
 * Web Server - Fastify
